@@ -1,7 +1,3 @@
-#Aluno: João Lucas De Souza Soares
-#RA: N622DH-8
-#Turma: CC2A30
-
 import random
 
 while True:
